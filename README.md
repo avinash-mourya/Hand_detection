@@ -10,5 +10,4 @@ hands and safety line. and when hands cross the safety line it will generate an 
 ## model training
 - I have trained tensorflow object detection model `ssdlite_mobilenet_v2`.
 ### project demo:
-
 ![Hnet-image (4)](https://user-images.githubusercontent.com/47352327/100866953-48e51c00-344e-11eb-8bbc-4e97f1b09059.gif)
