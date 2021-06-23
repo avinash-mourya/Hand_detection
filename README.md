@@ -1,7 +1,7 @@
 # Hand detection with tensorflow object detection api
 ## Introduction
 - Hand detection system that detects human hands and tracks the distance between
-hands and safety line. and when hands cross the safety line it will generate an alert alarm
+hands and safety line. and when hands cross the safety line it will generate an alert alarm and stop shredder machine.
 - It will help to prevent an accident in the shredder machine So that the laborers do not lose their hands.
 ## for data gathering
 - I have gathered data from Kaggle and some of my own dataset.
